@@ -243,5 +243,3 @@ npm test
 2. **Database**: PostgreSQL is assumed to be running locally, but you can adjust the host and port in the `.env` file for a remote database.
 
 ```
-
----
