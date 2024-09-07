@@ -242,4 +242,3 @@ npm test
 1. **JWT Expiry**: The JWT token is valid for 1 hour by default. You can modify this in the `jwt.sign()` method if needed.
 2. **Database**: PostgreSQL is assumed to be running locally, but you can adjust the host and port in the `.env` file for a remote database.
 
-```
